@@ -98,7 +98,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn tldextract requests
 
 3. Place the dataset file `malicious_phish.csv` in the project folder.
 
-4. Run Jupyter Notebook
+DOWNLOAD the data set from kaggle.com
+
+5. Run Jupyter Notebook
 
 ```
 jupyter notebook
